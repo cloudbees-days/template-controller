@@ -1,0 +1,5 @@
+apiVersion: "1"
+id: "template-bundle"
+version: "1"
+description: "Workshop Template Configuration Bundle"
+parent: "base"
